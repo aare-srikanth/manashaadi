@@ -1,0 +1,4 @@
+User-agent: *
+allow: /
+disallow:
+Sitemap: https://www.telugupickles.in/sitemap.xml
